@@ -1,0 +1,17 @@
+{
+  "name": "com.jixi.ai",
+  "version": "1.0.0",
+  "displayName": "Jixi AI",
+  "description": "Jixi AI Unity SDK",
+  "unity": "2022.3",
+  "unityRelease": "21f1",
+  "keywords": [
+    "jixi",
+    "ai"
+  ],
+  "author": {
+    "name": "Jixi",
+    "email": "contact@jixi.ai",
+    "url": "https://www.jixi.ai"
+  }
+}
